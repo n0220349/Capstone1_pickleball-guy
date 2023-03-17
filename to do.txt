@@ -1,0 +1,3 @@
+add background image to homepage (pb paddle/ball or pb guy)
+style to footer - 
+place UL list iems across the top of page

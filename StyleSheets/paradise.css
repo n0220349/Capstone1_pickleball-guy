@@ -1,0 +1,407 @@
+/* cyrillic-ext */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: italic;
+    font-weight: 400;
+    font-stretch: 100%;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/opensans/v34/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtE6FxZCJgvAQ.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+/* cyrillic */
+@font-face {
+    font-family: 'Open Sans';
+    font-style: italic;
+    font-weight: 400;
+    font-stretch: 100%;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/opensans/v34/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWvU6FxZCJgvAQ.woff2) format('woff2');
+    unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+</style>< !-- Facebook Meta Info --><meta property="og:url" content="https://6413a11c5f60a.site123.me/" class="s123-js-pjax"><meta property="og:image"
+content="https://static1.s123-cdn-static-a.com/ready_uploads/media/9196595/800_637642cfc3714.jpg"
+class="s123-js-pjax"><meta property="og:description" content="The Pickleball Guy - Pickleball Paradse" class="s123-js-pjax"><meta property="og:title" content="The Pickleball Guy - Pickleball Paradse" class="s123-js-pjax"><meta property="og:site_name" content="The Pickleball Guy" class="s123-js-pjax"><meta property="og:see_also" content="https://6413a11c5f60a.site123.me" class="s123-js-pjax">< !-- Google+Meta Info --><meta itemprop="name" content="The Pickleball Guy - Pickleball Paradse" class="s123-js-pjax"><meta itemprop="description" content="The Pickleball Guy - Pickleball Paradse" class="s123-js-pjax"><meta itemprop="image"
+content="https://static1.s123-cdn-static-a.com/ready_uploads/media/9196595/800_637642cfc3714.jpg"
+class="s123-js-pjax">< !-- Twitter Meta Info --><meta name="twitter:card" content="summary" class="s123-js-pjax"><meta name="twitter:url" content="https://6413a11c5f60a.site123.me/" class="s123-js-pjax"><meta name="twitter:title" content="The Pickleball Guy - Pickleball Paradse" class="s123-js-pjax"><meta name="twitter:description" content="The Pickleball Guy - Pickleball Paradse" class="s123-js-pjax"><meta name="twitter:image"
+content="https://static1.s123-cdn-static-a.com/ready_uploads/media/9196595/800_637642cfc3714.jpg"
+
+class="s123-js-pjax"><meta name="robots" content="all" class="s123-js-pjax">< !-- Website CSS variables --><style>:root {
+    --global_main_color: #0693c8;
+    --global_main_color_btn_text_color: #ffffff;
+    --home_text_color: #ffffff;
+    --home_third_background_color: #000000;
+    --home_custom_image_size: px;
+    --home_custom_image_width: px;
+    --home_text_size_px: 82px;
+    --home_text_size_2_px: 45px;
+    --slogan_text_size_px: 36px;
+    --home_text_size: 82;
+    --home_text_size_2: 45;
+    --slogan_text_size: 36;
+    --home_text_size_px_media: 82px;
+    --home_text_size_2_px_media: 45px;
+    --slogan_text_size_px_media: 36px;
+    --layout_text_align: center;
+    --layout_text_align_rtl: center;
+    --layout_text_box_width: 100%;
+    --layout_left_side_width: 50%;
+    --layout_left_side_width_vh: 50vh;
+    --homepage_layout_height: 75%;
+    --homepage_layout_height_vh: 75vh;
+    --homepage_layout_height_menu_space: 0px;
+    --mainNavMobileHeight: 0px;
+    --homepage_layout_height_opacity_space_top: 0px;
+    --homepage_layout_height_opacity_space_bottom: 0px;
+    --mobileMenuFontSize: 20px;
+    --mobileMenuPagesSpace: 5px;
+    --homepageShapeDividerList_Size: 17%;
+    --layout_bottom_spacing: 0px;
+    --window-height: 100vh;
+    --window-width: 100vw;
+    --menu_font_size: 12px;
+    --menu_pages_space: 3px;
+    --menu_pages_side_padding: 15px;
+    --menu_pages_letter_spacing: 0.5px;
+    --menu_pages_word_spacing: 0px;
+    --menu_thin_border: #ebebeb;
+    --mobileMenuTextAlign: center;
+    --menu_text_color: #252525;
+    --menu_text_hover_color: #0693c8;
+    --menu_color: #ffffff;
+    --modules_color_text: #252525;
+    --modules_color_text_second: #252525;
+    --inside_modules_color_text: #252525;
+    --sectionsPadding: 100px;
+    --home_text_top_space_1: 0px;
+    --home_text_bottom_space_1: 10px;
+    --home_text_top_space_2: 0px;
+    --home_text_bottom_space_2: 30px;
+    --home_text_top_space_3: 0px;
+    --home_text_bottom_space_3: 20px;
+    --homepage_padding_top: px;
+    --homepage_padding_bottom: px;
+    --homepage_main_goal_margin_top: 0px;
+    --homepage_main_goal_margin_bottom: 0px;
+    --homepage_second_goal_margin_top: 0px;
+    --homepage_second_goal_margin_bottom: 0px;
+    --modules_color_second: #fafafa;
+    --modules_color: #ffffff;
+    --footer_back: #ffffff;
+    --footer_text_hover: #0693c8;
+    --footer_links_color: #0693c8;
+    --footer_text: #252525;
+    --home_background_color: #000000;
+    --inside_modules_color_box: #fafafa;
+    --inside_modules_color_text_box: #252525;
+    --module_separate_border_color: #ebebeb;
+    --modules_color_box: #fafafa;
+    --modules_color_second_box: #ffffff;
+    --modules_color_text_second_box: #252525;
+    --inside_modules_color: #ffffff;
+    --modules_color_text_box: #252525;
+    --font_logo: Open Sans;
+    --font_menu: Open Sans;
+    --global_font: Open Sans;
+    --font_slogan: Open Sans;
+    --font_slogan_2: Open Sans;
+    --font_second_slogan: Open Sans;
+    --font_modules_header: Open Sans;
+    --sticky_menu: 1;
+    --scrollHeaderSize: 0px;
+}
+
+</style>< !-- Custom CSS -->< !-- Minimize CSS files --><link rel="stylesheet" href="https://cdn-cms-s.f-static.net/versions/2/css/minimize_main.css?v=n82724"
+
+type="text/css" crossorigin="anonymous"><style>.s123-module-pricing-tables.layout-1 .pricing-m {
+    position: relative;
+}
+
+.s123-module-pricing-tables.layout-1 .pricing-m [class^=col-] {
+    margin-top: 16px;
+}
+
+.s123-module-pricing-tables.layout-1 .pricing-m-box {
+    position: relative;
+    border-radius: 16px;
+    text-align: center;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .1);
+}
+
+.s123-module-pricing-tables.layout-1 .pricing-m-title {
+    padding-block: 24px;
+    border-radius: 16px 16px 0 0;
+    text-shadow: 1px 1px 1px #FFF;
+    border-bottom: 1px solid rgba(0, 0, 0, .05);
+}
+
+.s123-module-pricing-tables.layout-1 .pricing-m-title h3 {
+    margin: 0;
+    font-size: 1.25rem;
+    letter-spacing: 1px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.s123-module-pricing-tables.layout-1 .pricing-m-title span {
+    display: block;
+    opacity: 0.7;
+    font-weight: 500;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+}
+
+.s123-module-pricing-tables.layout-1 .pricing-m-price {
+    position: relative;
+    padding-block: 24px;
+    opacity: 0.7;
+    font-weight: 300;
+    font-size: 64px;
+    line-height: 1;
+}
+
+.s123-module-pricing-tables.layout-1 .pricing-m-price:after {
+    content: '';
+    position: absolute;
+    width: 100px;
+    border-top: 1px solid rgba(0, 0, 0, .1);
+    top: auto;
+    bottom: 0;
+    left: 50%;
+    margin-left: -50px;
+}
+
+.s123-module-pricing-tables.layout-1 .pricing-m-price span {
+    display: inline-block;
+}
+
+.s123-module-pricing-tables.layout-1 .pricing-m-price span.pricing-m-price-value {
+    vertical-align: top;
+    margin: 7px 3px 0 0;
+    font-size: 28px;
+    font-weight: 400;
+}
+
+.s123-module-pricing-tables.layout-1 .pricing-m-price span.pricing-m-price-period {
+    vertical-align: baseline;
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.5;
+    margin: 0 0 0 3px;
+}
+
+.s123-module-pricing-tables.layout-1 .pricing-m-features {
+    border-bottom: 1px solid rgba(0, 0, 0, .075);
+    padding: 0 10px;
+}
+
+.s123-module-pricing-tables.layout-1 .pricing-m-features:last-child {
+    border-bottom: none;
+}
+
+.s123-module-pricing-tables.layout-1 .pricing-m-features ul {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 32px 0;
+    list-style: none;
+    gap: 16px;
+}
+
+.s123-module-pricing-tables.layout-1 .pricing-m-features li {
+    font-size: 14px;
+    color: #000;
+}
+
+.s123-module-pricing-tables.layout-1 .pricing-m-action {
+    padding: 32px 46px;
+}
+
+.s123-module-pricing-tables.layout-1 .pricing-p-popular {
+    padding: 0;
+}
+
+.s123-module-pricing-tables.layout-1 .pricing-p:first-child:not(.pricing-p-popular),
+.s123-module-pricing-tables.layout-1 .pricing-p:last-child:not(.pricing-p-popular) {
+    padding: 0;
+}
+
+.s123-module-pricing-tables.layout-1 .pricing-p:nth-child(2):not(.pricing-p-popular) {
+    padding: 0 15px;
+}
+
+@media (max-width:768px) {
+
+    .s123-module-pricing-tables.layout-1 .pricing-p,
+    .s123-module-pricing-tables.layout-1 .pricing-p-popular,
+    .s123-module-pricing-tables.layout-1 .pricing-p:first-child:not(.pricing-p-popular),
+    .s123-module-pricing-tables.layout-1 .pricing-p:last-child:not(.pricing-p-popular) {
+        padding: 0 15px;
+    }
+
+    .s123-module-pricing-tables.layout-1 .pricing-p:nth-child(2):not(.pricing-p-popular) {
+        padding: 0 15px;
+    }
+}
+
+.s123-module-pricing-tables.layout-1 .pricing-m-box.pricing-m-popular {
+    box-shadow: 0px 20px 45px rgba(0, 0, 0, 0.1);
+    z-index: 1;
+    position: relative;
+}
+
+.s123-module-pricing-tables.layout-1 .pricing-m-box.pricing-m-popular::before {
+    content: '';
+    border: 2px solid var(--global_main_color);
+    border-radius: 16px;
+    position: absolute;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+
+@media (min-width:970px) {
+    .s123-module-pricing-tables.layout-1 .pricing-m-box.pricing-m-popular {
+        margin: -20px -1px 0;
+    }
+}
+
+.s123-module-pricing-tables.layout-1 .pricing-m-box.pricing-m-popular .pricing-m-title {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.s123-module-pricing-tables.layout-1 .pricing-m-box.pricing-m-popular .pricing-m-price {
+    font-size: 72px;
+}
+
+.s123-module-pricing-tables.layout-1 .pricing-m-price:last-child::after {
+    width: 0;
+}
+
+.s123-module-pricing-tables.layout-2 .container {
+    text-align: center;
+}
+
+.s123-module-pricing-tables.layout-2 .plan-container {
+    margin-top: 81px;
+    border-radius: 16px;
+}
+
+@media (min-width:970px) {
+    .s123-module-pricing-tables.layout-2 .popular {
+        margin-top: 65px;
+    }
+}
+
+.s123-module-pricing-tables.layout-2 .plan-container .price {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 132px;
+    height: 132px;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+    margin: -1px auto;
+    margin-top: -120px;
+    margin-bottom: 16px;
+    font-size: 30px;
+}
+
+.s123-module-pricing-tables.layout-2 .plan-container .price span[data-rel="multiCurrency"] {
+    color: #fff !important;
+}
+
+.s123-module-pricing-tables.layout-2 .plan-container .period {
+    font-size: 18px;
+    color: #fff !important;
+}
+
+.s123-module-pricing-tables.layout-2 .plan-container .plan-name {
+    padding-top: 50px;
+    padding-bottom: 10px;
+    border-radius: 16px 16px 0 0;
+    border-bottom: 1px solid #E9E9E9;
+}
+
+.s123-module-pricing-tables.layout-2 .plan-container .plan-name.plan-only-title {
+    padding-bottom: 32px;
+    border-radius: 16px;
+}
+
+.s123-module-pricing-tables.layout-2 .plan-name h3 {
+    color: #555;
+    margin: 0;
+    font-size: 1.25rem;
+    font-weight: 700;
+}
+
+.s123-module-pricing-tables.layout-2 .popular .plan-name h3 {
+    margin-bottom: 4px;
+}
+
+.s123-module-pricing-tables.layout-2 .plan-container.popular .plan-name p {
+    font-weight: 500;
+    font-size: 0.75rem;
+    margin: 0;
+    color: #5F6373;
+}
+
+.s123-module-pricing-tables.layout-2 .plan-container .plan-features {
+    padding: 32px;
+    border-bottom: 1px solid #E9E9E9;
+}
+
+.s123-module-pricing-tables.layout-2 .plan-container .plan-features:last-child {
+    border-bottom-right-radius: 16px;
+    border-bottom-left-radius: 16px;
+}
+
+.s123-module-pricing-tables.layout-2 .plan-container .plan-features ul {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    gap: 16px;
+}
+
+.s123-module-pricing-tables.layout-2 .plan-container .plan-features ul li {
+    list-style: none;
+}
+
+.s123-module-pricing-tables.layout-2 .plan-button {
+    display: flex;
+    padding: 32px;
+    border-radius: 0 0 16px 16px;
+}
+
+.s123-module-pricing-tables.layout-2 .plan-button .btn {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.s123-module-pricing-tables.layout-2 .plan-container.popular {
+    box-shadow: 0px 20px 45px rgba(0, 0, 0, 0.1);
+}
+
+.s123-module-pricing-tables.layout-2 .popular .plan-name,
+.s123-module-pricing-tables.layout-2 .popular .plan-features,
+.s123-module-pricing-tables.layout-2 .popular .plan-button {
+    background-color: #fff !important;
+}
+
+@media (max-width:767px) {
+    .s123-module-pricing-tables.layout-2 .mobile-flex-space {
+        display: flex;
+        flex-direction: column;
+        gap: 32px;
+    }
+}

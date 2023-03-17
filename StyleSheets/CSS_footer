@@ -1,0 +1,5 @@
+.footer {
+    background: #0000002a;
+    border: 0;
+    padding: 0;
+}

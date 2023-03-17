@@ -1,0 +1,54 @@
+body {
+    background-color: #cccccc;
+    background-size: cover;
+}
+
+h1 {
+    color: maroon;
+    margin-left: 200px;
+}
+
+h2 {
+    color: slateblue;
+    margin-left: 160px;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: grey;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111111;
+}
+
+    {}
+
+@media screen and (max-width: 767px) .footer {
+    padding-bottom: 70px;
+}
+
+.footer .footer-info-heading {
+    background: #8e0707;
+    border: 0;
+    padding: 0;
+    position: relative;
+    transform: translateZ(0);
+
+}
